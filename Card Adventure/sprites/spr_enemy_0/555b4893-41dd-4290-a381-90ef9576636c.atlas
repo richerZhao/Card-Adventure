@@ -1,0 +1,97 @@
+
+spr_skeleton.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bottom-left-leg-1
+  rotate: false
+  xy: 324, 55
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+bottom-left-leg-2
+  rotate: true
+  xy: 363, 57
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+bottom-left-leg-3
+  rotate: false
+  xy: 95, 20
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+bottom-right-leg-1
+  rotate: true
+  xy: 445, 57
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+bottom-right-leg-2
+  rotate: true
+  xy: 404, 57
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+bottom-right-leg-3
+  rotate: false
+  xy: 135, 20
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+dniwe
+  rotate: false
+  xy: 2, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+top-left-leg-1
+  rotate: false
+  xy: 324, 18
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+top-left-leg-2
+  rotate: false
+  xy: 255, 34
+  size: 33, 59
+  orig: 33, 59
+  offset: 0, 0
+  index: -1
+top-left-leg-3
+  rotate: false
+  xy: 175, 28
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+top-right-leg-1
+  rotate: false
+  xy: 364, 20
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+top-right-leg-2
+  rotate: false
+  xy: 290, 34
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+top-right-leg-3
+  rotate: false
+  xy: 215, 28
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,24 @@
+{
+	"enemys":[
+	{
+		"id":1,
+		"enemy_name":"多足虫",
+		"hp":20,
+		"spr_name":"spr_enemy_0",
+		"attack":10
+	},
+	{
+		"id":2,
+		"enemy_name":"多足虫",
+		"hp":21,
+		"spr_name":"spr_enemy_0",
+		"attack":11
+	},
+	{
+		"id":2,
+		"enemy_name":"多足虫",
+		"hp":19,
+		"spr_name":"spr_enemy_0",
+		"attack":9
+	}]
+}
